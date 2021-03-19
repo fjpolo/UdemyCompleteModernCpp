@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libmainLibrary.a CMakeFiles/mainLibrary.dir/libraries/functions.cpp.obj
+C:\MinGW\bin\ranlib.exe libmainLibrary.a

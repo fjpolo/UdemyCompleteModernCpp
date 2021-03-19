@@ -1,0 +1,4 @@
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section02/004AssignmentPointers/build/CMakeFiles/mainApp.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section02/004AssignmentPointers/build/CMakeFiles/mainLibrary.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section02/004AssignmentPointers/build/CMakeFiles/edit_cache.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section02/004AssignmentPointers/build/CMakeFiles/rebuild_cache.dir

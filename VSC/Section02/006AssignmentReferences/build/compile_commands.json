@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section02/006AssignmentReferences/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainLibrary.dir\\libraries\\functions.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section02\\006AssignmentReferences\\libraries\\functions.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section02/006AssignmentReferences/libraries/functions.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section02/006AssignmentReferences/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section02\\006AssignmentReferences\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section02/006AssignmentReferences/src/main.cpp"
+}
+]
