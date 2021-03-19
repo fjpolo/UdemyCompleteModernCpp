@@ -5,7 +5,6 @@ namespace Avg {
 		return (x + y) / 2;
 	}
 }
-
 namespace Basic {
 	float Calculate(float x, float y) {
 		return x + y;
@@ -36,8 +35,11 @@ namespace {
 	}
 }
 int main() {
-	//Avoid opening a namespace at a global scope
-	
+	/**
+	 * 
+	 * Avoid opening a namespace at a global scope!!!!!!!!!!!!!!!!!!!!!!!!
+	 * 
+	 */
 	InternalFunction();
 	using namespace Sort::Comparision;
 	Sort::Comparision::Less();

@@ -1,7 +1,5 @@
 #include <iostream>
 void CreateWindow(const char * title, int x, int y, int width, int height);
-
-
 void CreateWindow(const char * title, int x = -1, int y = -1, int width = -1, int height = -1) {
 	using namespace std;
 	cout << "Title : " << title << endl;
@@ -11,10 +9,12 @@ void CreateWindow(const char * title, int x = -1, int y = -1, int width = -1, in
 	cout << "Height : " << height << endl;
 }
 int main() {
-	/*
-	Not all arguments are necessary. If you specify arguments,
-	they should be specified from right to left.
-	*/
+	/**
+	 * 	Not all arguments are necessary. If you specify arguments,
+	 * they should be specified from right to left.
+	 */
 	CreateWindow("Notepad", 100, 200);
+	printf("\n");
+	CreateWindow("Gedit");
 	return 0;
 }
