@@ -1,8 +1,23 @@
 #include <iostream>
-inline int Square(int x) {
-	return x * x;
-}
+
+/**
+ * macros
+ */
 //#define Square(x) x*x
+
+
+/**
+ * Square()
+ */
+inline int Square(int x) {
+	return (x*x);
+}
+
+/**
+ *  
+ * main()
+ * 
+ */
 int main() {
 	using namespace std;
 	int val = 5;

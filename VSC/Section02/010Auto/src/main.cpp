@@ -7,7 +7,6 @@ int main() {
 	auto i = 10;
 	auto j = 5;
 	auto sum = i + 4.3f;
-
 	auto result = Sum(i, j);
 	static auto y = 2;
 	const int x = 10;
@@ -15,8 +14,11 @@ int main() {
 	const auto var = x;
 	//Deduced to reference
 	auto &var1 = x;
-
 	//Deduced to a pointer. * is not necessary
-	auto *ptr = &x;
+	// auto *ptr = &x;
+	auto ptr = &x;
+	//List initializer
+	auto list = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+	// Bye bye
 	return 0;
 }
