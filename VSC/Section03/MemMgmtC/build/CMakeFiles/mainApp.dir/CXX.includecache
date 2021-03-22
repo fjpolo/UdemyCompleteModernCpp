@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section03/MemMgmtC/src/main.cpp
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+cstring
+-
+
