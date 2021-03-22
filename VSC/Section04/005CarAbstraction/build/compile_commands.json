@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/005CarAbstraction/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainAppLibrary.dir\\car\\Car.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section04\\005CarAbstraction\\car\\Car.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/005CarAbstraction/car/Car.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/005CarAbstraction/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\car\\Car.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section04\\005CarAbstraction\\car\\Car.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/005CarAbstraction/car/Car.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/005CarAbstraction/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section04\\005CarAbstraction\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/005CarAbstraction/src/main.cpp"
+}
+]

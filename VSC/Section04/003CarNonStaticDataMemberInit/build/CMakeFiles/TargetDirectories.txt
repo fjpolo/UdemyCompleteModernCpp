@@ -1,0 +1,4 @@
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/003CarNonStaticDataMemberInit/build/CMakeFiles/mainAppLibrary.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/003CarNonStaticDataMemberInit/build/CMakeFiles/mainApp.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/003CarNonStaticDataMemberInit/build/CMakeFiles/edit_cache.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section04/003CarNonStaticDataMemberInit/build/CMakeFiles/rebuild_cache.dir

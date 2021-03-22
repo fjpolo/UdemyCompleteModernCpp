@@ -5,7 +5,7 @@
 cmake_minimum_required(VERSION 3.12) # version can be different
 
 # Project name
-project(LLKBusStecker) #name of your project
+project(UdemyCourse) #name of your project
 
 #
 # general
