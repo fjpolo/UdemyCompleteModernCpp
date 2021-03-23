@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libmainAppLibrary.a CMakeFiles/mainAppLibrary.dir/Integer/Integer.cpp.obj
+C:\MinGW\bin\ranlib.exe libmainAppLibrary.a

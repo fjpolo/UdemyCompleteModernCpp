@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section05/003RuleofFive/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainAppLibrary.dir\\Integer\\Integer.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section05\\003RuleofFive\\Integer\\Integer.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section05/003RuleofFive/Integer/Integer.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section05/003RuleofFive/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\Integer\\Integer.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section05\\003RuleofFive\\Integer\\Integer.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section05/003RuleofFive/Integer/Integer.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section05/003RuleofFive/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section05\\003RuleofFive\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section05/003RuleofFive/src/main.cpp"
+}
+]
