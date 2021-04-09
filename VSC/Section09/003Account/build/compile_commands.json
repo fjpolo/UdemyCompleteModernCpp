@@ -1,0 +1,47 @@
+[
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainAppLibrary.dir\\Libraries\\Account.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section09\\003Account\\Libraries\\Account.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/Libraries/Account.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainAppLibrary.dir\\Libraries\\Checking.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section09\\003Account\\Libraries\\Checking.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/Libraries/Checking.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainAppLibrary.dir\\Libraries\\Savings.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section09\\003Account\\Libraries\\Savings.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/Libraries/Savings.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainAppLibrary.dir\\Libraries\\Transaction.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section09\\003Account\\Libraries\\Transaction.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/Libraries/Transaction.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\Libraries\\Account.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section09\\003Account\\Libraries\\Account.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/Libraries/Account.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\Libraries\\Checking.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section09\\003Account\\Libraries\\Checking.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/Libraries/Checking.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\Libraries\\Savings.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section09\\003Account\\Libraries\\Savings.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/Libraries/Savings.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\Libraries\\Transaction.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section09\\003Account\\Libraries\\Transaction.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/Libraries/Transaction.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section09\\003Account\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/src/main.cpp"
+}
+]
