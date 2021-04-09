@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libmainAppLibrary.a CMakeFiles/mainAppLibrary.dir/Libraries/Account.cpp.obj CMakeFiles/mainAppLibrary.dir/Libraries/Checking.cpp.obj CMakeFiles/mainAppLibrary.dir/Libraries/Savings.cpp.obj CMakeFiles/mainAppLibrary.dir/Libraries/Transaction.cpp.obj
+C:\MinGW\bin\ranlib.exe libmainAppLibrary.a

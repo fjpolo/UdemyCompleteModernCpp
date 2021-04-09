@@ -1,0 +1,4 @@
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build/CMakeFiles/mainAppLibrary.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build/CMakeFiles/mainApp.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build/CMakeFiles/edit_cache.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section09/003Account/build/CMakeFiles/rebuild_cache.dir
