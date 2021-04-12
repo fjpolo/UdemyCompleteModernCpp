@@ -3,6 +3,7 @@
  */ 
 #include <iostream>
 #include <algorithm>
+#include <cstring>
 
 /**
  * \class
@@ -24,7 +25,11 @@ T Max(T a, T b){
     return (a > b) ? a : b;
 }
 template char Max(char a, char b);  // Instantiate for char
-
+/*Explicit specialization*/
+template<> const char* Max<const char*>(const char* a, const char* b){
+    // std::cout << "Max<const char*>()" << std::endl;
+    return strcmp(a, b) > 0 ? a : b;
+}
 
 /**
  * \fn main
@@ -33,7 +38,7 @@ template char Max(char a, char b);  // Instantiate for char
  */
 int main(){
     /**
-     * Video 127
+     * Video 127 - Explicit specialization
      */
     const char* b{"B"};
     const char* a{"A"};

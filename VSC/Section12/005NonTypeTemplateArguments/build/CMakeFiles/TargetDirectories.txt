@@ -1,0 +1,3 @@
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section12/005NonTypeTemplateArguments/build/CMakeFiles/mainApp.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section12/005NonTypeTemplateArguments/build/CMakeFiles/edit_cache.dir
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section12/005NonTypeTemplateArguments/build/CMakeFiles/rebuild_cache.dir
