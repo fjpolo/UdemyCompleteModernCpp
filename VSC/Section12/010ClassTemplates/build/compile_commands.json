@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section12/010ClassTemplates/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainAppLibrary.dir\\Libraries\\Integer.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section12\\010ClassTemplates\\Libraries\\Integer.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section12/010ClassTemplates/Libraries/Integer.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section12/010ClassTemplates/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\Libraries\\Integer.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section12\\010ClassTemplates\\Libraries\\Integer.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section12/010ClassTemplates/Libraries/Integer.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section12/010ClassTemplates/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\mainApp.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section12\\010ClassTemplates\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section12/010ClassTemplates/src/main.cpp"
+}
+]

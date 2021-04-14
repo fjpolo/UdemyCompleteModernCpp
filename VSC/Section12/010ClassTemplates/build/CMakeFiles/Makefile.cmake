@@ -50,5 +50,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/mainAppLibrary.dir/DependInfo.cmake"
   "CMakeFiles/mainApp.dir/DependInfo.cmake"
   )
