@@ -53,6 +53,7 @@ int main(){
     static_assert(sizeof(void*) == 4, "Compile in 32bit mode only.-");
     // static_assert(sizeof(void*) == 8, "Compile in 64bit mode only.-");
 
+    // std::cout << Divide(5, 2) << std::endl;
     std::cout << Divide(5.0f, 2.0f) << std::endl;
 
     return 0;
