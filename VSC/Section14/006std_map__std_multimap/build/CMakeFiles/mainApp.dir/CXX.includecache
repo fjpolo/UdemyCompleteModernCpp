@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/006std_map__std_multimap/src/main.cpp
+iostream
+-
+array
+-
+vector
+-
+deque
+-
+list
+-
+forward_list
+-
+set
+-
+functional
+-
+string
+-
+map
+-
+

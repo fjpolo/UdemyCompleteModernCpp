@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/005_std_set__std_multiset/src/main.cpp
+iostream
+-
+array
+-
+vector
+-
+deque
+-
+list
+-
+forward_list
+-
+set
+-
+functional
+-
+
