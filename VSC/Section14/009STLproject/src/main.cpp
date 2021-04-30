@@ -48,7 +48,7 @@ class Agenda{
 			group(_group)
 			{}
 		~Agenda(){}
-		const std::string & GetName()const {
+	const std::string & GetName()const {
 		return name;
 	}
 	const std::string & GetSurname()const {
@@ -56,6 +56,9 @@ class Agenda{
 	}
 	const int & GetPrimaryPhoneNumber() const{
 		return primaryPhoneNumber;
+	}
+	const std::string & GetCompany()const {
+		return company;
 	}
 };
 
@@ -105,9 +108,53 @@ void DisplayFirstNameAndPhone(std::vector<Agenda> &v){
  * 
  * \brief Display contacts from the same company only.-
  */
-void AgendaVector(std::vector<Agenda> &v){
-	
+void DisplaySameCompany(std::vector<Agenda> &v, std::string company){
+	// auto itr = std::for_each(v.begin(), v.end(), [](const auto &e){
+	// 	return e.GetCompany() == company;
+	// });
+	// for(int namey : itr.name){
+	// 	std::cout << "Name: " << namey << std::endl;
+	// }
+
 }
+
+/**
+ * \fn DisplayGroupBased
+ * 
+ * \brief Display contacts based on group type-
+ */
+void DisplayGroupBased(std::vector<Agenda> &v){}
+
+/**
+ * \fn Search
+ * 
+ * \brief Display contacts based on group type-
+ */
+void Search(std::vector<Agenda> &v, std::string name_surname, bool isSearchBySurname=false){
+	if(!isSearchBySurname){
+		auto itr = std::find_if(v.begin(), v.end(), [name_surname](const auto &e){
+			return e.GetName() == name_surname;
+		});
+		if(itr != v.end()){
+			std::cout << itr->GetName() << " found!" << std::endl;
+		}
+		else{
+			std::cout << name_surname << " not found..." << std::endl;
+		}
+	}
+	else{
+		auto itr = std::find_if(v.begin(), v.end(), [name_surname](const auto &e){
+			return e.GetSurname() == name_surname;
+		});
+		if(itr != v.end()){
+			std::cout << itr->GetSurname() << " found!" << std::endl;
+		}
+		else{
+			std::cout << name_surname << " not found..." << std::endl;
+		}
+	}
+}
+
 
 /**
  * \fn main
@@ -129,13 +176,14 @@ int main() {
 	 * 	
 	 * Provide the following features:
 	 * 
-	 *		Display all contacts sorted by first or last name (provide an option that users can choose)
-	 *		Display only first name with primary number
-	 *		Display contacts from the same company only
-	 *		Display contacts based on group type
-	 *		Allow contact search by first or last name
-	 *		Display count of contacts by company and group.
-	 *		Decide carefully about the usage of containers and algorithms.
+	 *		✅ Display all contacts sorted by first or last name (provide an option that users can choose)
+	 *		✅ Display only first name with primary number
+	 *		❎ Display contacts from the same company only
+	 *		❎ Display contacts based on group type
+	 *		✅ Allow contact search by first or last name
+	 *		❎ Display count of contacts by company and group.
+	 *		
+	 * Decide carefully about the usage of containers and algorithms.
 	 * 
 	 */
 	std::vector<Agenda> AgendaVector{
@@ -145,10 +193,24 @@ int main() {
 	};
 	std::cout << "Order by name: " << std::endl;
 	DisplaySortedContacts(AgendaVector, false);
+	std::cout << std::endl;
+	
 	std::cout << "Order by surname: " << std::endl;
 	DisplaySortedContacts(AgendaVector, true);
+	std::cout << std::endl;
+	
 	std::cout << "Print name and phone: " << std::endl;
 	DisplayFirstNameAndPhone(AgendaVector);
+	std::cout << std::endl;
+
+	std::cout << "Print same company people: " << std::endl;
+	DisplaySameCompany(AgendaVector, "Telefé");
+	std::cout << std::endl;
+
+	std::cout << "Search name and surname: " << std::endl;
+	Search(AgendaVector, "Francesco", false);
+	Search(AgendaVector, "Camelas", true);
+	std::cout << std::endl;
 
 	return 0;
 }
