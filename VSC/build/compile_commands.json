@@ -1,0 +1,127 @@
+[
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/001std_array",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Section14_001std_array.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section14\\001std_array\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/001std_array/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/002std_vector",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Section14_002std_list.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section14\\002std_vector\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/002std_vector/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/003std_deque",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Section14_003std_deque.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section14\\003std_deque\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/003std_deque/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/004std_list",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Section14_std_list.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section14\\004std_list\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/004std_list/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/005std_set__std_multiset",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Section14_005std_set__std_multiset.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section14\\005std_set__std_multiset\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/005std_set__std_multiset/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/006std_map__std_multimap",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Section14_006std_map__std_multimap.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section14\\006std_map__std_multimap\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/006std_map__std_multimap/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/007unorderedcontainers",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\mainApp.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section14\\007unorderedcontainers\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/007unorderedcontainers/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/008stl_algorithms",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Section14_008stl_algorithms.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section14\\008stl_algorithms\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/008stl_algorithms/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/009STLproject",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Section14_009STLproject.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section14\\009STLproject\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section14/009STLproject/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section15/001Threads",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -o CMakeFiles\\Section15_001Threads.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section15\\001Threads\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section15/001Threads/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section15/002Mutex",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -o CMakeFiles\\Section15_002Mutex.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section15\\002Mutex\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section15/002Mutex/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section15/003this_thread",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -o CMakeFiles\\Section15_003this_thread.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section15\\003this_thread\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section15/003this_thread/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section15/004TaskBasedConcurrency",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -o CMakeFiles\\Section15_004TaskBasedConcurrency.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section15\\004TaskBasedConcurrency\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section15/004TaskBasedConcurrency/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section15/005Future",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -o CMakeFiles\\Section15_005Future.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section15\\005Future\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section15/005Future/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section15/006Promise",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -o CMakeFiles\\Section15_006Promise.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section15\\006Promise\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section15/006Promise/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section15/007Exceptions",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -o CMakeFiles\\Section15_007Exceptions.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section15\\007Exceptions\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section15/007Exceptions/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/001Attributes",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -o CMakeFiles\\Section16_001Attributes.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\001Attributes\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/001Attributes/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/002FeatureTestMacros",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -o CMakeFiles\\Section16_002FeatureTestMacros.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\002FeatureTestMacros\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/002FeatureTestMacros/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/003IfSwitchWithInit",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_003IfSwitchWithInit.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\003IfSwitchWithInit\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/003IfSwitchWithInit/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/004InlineVariables",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_004InlineVariables.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\004InlineVariables\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/004InlineVariables/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/004InlineVariables",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_004InlineVariables.dir\\src\\a.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\004InlineVariables\\src\\a.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/004InlineVariables/src/a.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/004InlineVariables",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_004InlineVariables.dir\\src\\b.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\004InlineVariables\\src\\b.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/004InlineVariables/src/b.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/005NestedNamespaces",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_005NestedNamespaces.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\005NestedNamespaces\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/005NestedNamespaces/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/006noexcept",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_006noexcept.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\006noexcept\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/006noexcept/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/007constexprLambda",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_007constexprLambda.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\007constexprLambda\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/007constexprLambda/src/main.cpp"
+}
+]

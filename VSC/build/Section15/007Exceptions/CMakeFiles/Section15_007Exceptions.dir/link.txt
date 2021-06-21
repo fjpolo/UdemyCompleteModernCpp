@@ -1,0 +1,3 @@
+C:\CMake\bin\cmake.exe -E rm -f CMakeFiles\Section15_007Exceptions.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Section15_007Exceptions.dir/objects.a @CMakeFiles\Section15_007Exceptions.dir\objects1.rsp
+C:\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\Section15_007Exceptions.dir/objects.a -Wl,--no-whole-archive -o Section15_007Exceptions.exe -Wl,--out-implib,libSection15_007Exceptions.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Section15_007Exceptions.dir\linklibs.rsp

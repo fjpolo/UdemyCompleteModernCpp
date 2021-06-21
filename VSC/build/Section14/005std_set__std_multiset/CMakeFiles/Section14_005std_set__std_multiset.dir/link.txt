@@ -1,0 +1,3 @@
+C:\CMake\bin\cmake.exe -E rm -f CMakeFiles\Section14_005std_set__std_multiset.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Section14_005std_set__std_multiset.dir/objects.a @CMakeFiles\Section14_005std_set__std_multiset.dir\objects1.rsp
+C:\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\Section14_005std_set__std_multiset.dir/objects.a -Wl,--no-whole-archive -o Section14_005std_set__std_multiset.exe -Wl,--out-implib,libSection14_005std_set__std_multiset.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Section14_005std_set__std_multiset.dir\linklibs.rsp
