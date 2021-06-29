@@ -1,0 +1,1280 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						11,
+						19,
+						30,
+						34
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Section14",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Section14"
+				},
+				{
+					"build" : "Section14/001std_array",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "Section14/001std_array",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Section14/002std_vector",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "Section14/002std_vector",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Section14/003std_deque",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "Section14/003std_deque",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Section14/004std_list",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "Section14/004std_list",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "Section14/005std_set__std_multiset",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 5,
+					"source" : "Section14/005std_set__std_multiset",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Section14/006std_map__std_multimap",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 6,
+					"source" : "Section14/006std_map__std_multimap",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Section14/007unorderedcontainers",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 7,
+					"source" : "Section14/007unorderedcontainers",
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"build" : "Section14/008stl_algorithms",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 8,
+					"source" : "Section14/008stl_algorithms",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "Section14/009STLproject",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 9,
+					"source" : "Section14/009STLproject",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Section15",
+					"childIndexes" : 
+					[
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Section15"
+				},
+				{
+					"build" : "Section15/001Threads",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 10,
+					"source" : "Section15/001Threads",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "Section15/002Mutex",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 11,
+					"source" : "Section15/002Mutex",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "Section15/003this_thread",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 12,
+					"source" : "Section15/003this_thread",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "Section15/004TaskBasedConcurrency",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 13,
+					"source" : "Section15/004TaskBasedConcurrency",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "Section15/005Future",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 14,
+					"source" : "Section15/005Future",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "Section15/006Promise",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 15,
+					"source" : "Section15/006Promise",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "Section15/007Exceptions",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 16,
+					"source" : "Section15/007Exceptions",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "Section16",
+					"childIndexes" : 
+					[
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Section16"
+				},
+				{
+					"build" : "Section16/001Attributes",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 17,
+					"source" : "Section16/001Attributes",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "Section16/002FeatureTestMacros",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 18,
+					"source" : "Section16/002FeatureTestMacros",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "Section16/003IfSwitchWithInit",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 19,
+					"source" : "Section16/003IfSwitchWithInit",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "Section16/004InlineVariables",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 20,
+					"source" : "Section16/004InlineVariables",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "Section16/005NestedNamespaces",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 21,
+					"source" : "Section16/005NestedNamespaces",
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"build" : "Section16/006noexcept",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 22,
+					"source" : "Section16/006noexcept",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "Section16/007constexprLambda",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 23,
+					"source" : "Section16/007constexprLambda",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "Section16/008StructuredBindings",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 24,
+					"source" : "Section16/008StructuredBindings",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "Section16/009ExpressionEvaluationOrder",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 25,
+					"source" : "Section16/009ExpressionEvaluationOrder",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"build" : "Section16/010MandatoryCopyElision",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 19,
+					"projectIndex" : 26,
+					"source" : "Section16/010MandatoryCopyElision",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "Section17",
+					"childIndexes" : 
+					[
+						31,
+						32,
+						33
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Section17"
+				},
+				{
+					"build" : "Section17/001CTAD",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 30,
+					"projectIndex" : 27,
+					"source" : "Section17/001CTAD",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "Section17/002FoldingBasics",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 30,
+					"projectIndex" : 28,
+					"source" : "Section17/002FoldingBasics",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "Section17/003ifconstexpr",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 30,
+					"projectIndex" : 29,
+					"source" : "Section17/003ifconstexpr",
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"build" : "Section18",
+					"childIndexes" : 
+					[
+						35,
+						36,
+						37,
+						38
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Section18"
+				},
+				{
+					"build" : "Section18/001std_optional",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 34,
+					"projectIndex" : 30,
+					"source" : "Section18/001std_optional",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "Section18/002std_variant",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 34,
+					"projectIndex" : 31,
+					"source" : "Section18/002std_variant",
+					"targetIndexes" : 
+					[
+						29
+					]
+				},
+				{
+					"build" : "Section18/003std_any",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 34,
+					"projectIndex" : 32,
+					"source" : "Section18/003std_any",
+					"targetIndexes" : 
+					[
+						30
+					]
+				},
+				{
+					"build" : "Section18/004parallel",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 34,
+					"projectIndex" : 33,
+					"source" : "Section18/004parallel",
+					"targetIndexes" : 
+					[
+						31
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						11,
+						19,
+						30,
+						34
+					],
+					"name" : "UdemyModernCPP"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Section14_001std_array",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Section14_002std_list",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Section14_003std_deque",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Section14_std_list",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "Section14_005std_set__std_multiset",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "Section14_006std_map__std_multimap",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "UdemyCourse",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "Section14_008stl_algorithms",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "Section14_009STLproject",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "Section15_001Threads",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "Section15_002Mutex",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "Section15_003this_thread",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "Section15_004TaskBasedConcurrency",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "Section15_005Future",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						17
+					],
+					"name" : "Section15_006Promise",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						18
+					],
+					"name" : "Section15_007Exceptions",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						20
+					],
+					"name" : "Section16_001Attributes",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						21
+					],
+					"name" : "Section16_002FeatureTestMacros",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						22
+					],
+					"name" : "Section16_003IfSwitchWithInit",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						23
+					],
+					"name" : "Section16_004InlineVariables",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						24
+					],
+					"name" : "Section16_005NestedNamespaces",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						25
+					],
+					"name" : "Section16_006noexcept",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						26
+					],
+					"name" : "Section16_007constexprLambda",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						27
+					],
+					"name" : "Section16_008StructuredBindings",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						28
+					],
+					"name" : "Section16_009ExpressionEvaluationOrder",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						29
+					],
+					"name" : "Section16_010MandatoryCopyElisionb",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						31
+					],
+					"name" : "Section17_001CTAD",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						32
+					],
+					"name" : "Section17_002FoldingBasics",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						33
+					],
+					"name" : "Section17_003ifconstexpr",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						35
+					],
+					"name" : "Section18_001std_optional",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						36
+					],
+					"name" : "Section18_002std_variant",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						29
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						37
+					],
+					"name" : "Section18_003std_any",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						30
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						38
+					],
+					"name" : "Section18_004parallel",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						31
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Section14_001std_array::@980bd46c63afccbb020b",
+					"jsonFile" : "target-Section14_001std_array-Debug-eca5cf3ebf924a68801a.json",
+					"name" : "Section14_001std_array",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Section14_002std_list::@9e18df2b10ee680c3b3d",
+					"jsonFile" : "target-Section14_002std_list-Debug-bf86aed307cab97f4b03.json",
+					"name" : "Section14_002std_list",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Section14_003std_deque::@101e96acbd46380da9b3",
+					"jsonFile" : "target-Section14_003std_deque-Debug-4fc73aef98c7ba5af725.json",
+					"name" : "Section14_003std_deque",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "Section14_005std_set__std_multiset::@2809459e983e35c56651",
+					"jsonFile" : "target-Section14_005std_set__std_multiset-Debug-9666ceec48432da63b90.json",
+					"name" : "Section14_005std_set__std_multiset",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Section14_006std_map__std_multimap::@a3e53c6a0f69ceb71dae",
+					"jsonFile" : "target-Section14_006std_map__std_multimap-Debug-ddd19f677be0cade3893.json",
+					"name" : "Section14_006std_map__std_multimap",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "Section14_008stl_algorithms::@ec9599f26782b7def1e7",
+					"jsonFile" : "target-Section14_008stl_algorithms-Debug-27e2cb6e08a2878cd043.json",
+					"name" : "Section14_008stl_algorithms",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "Section14_009STLproject::@392d893f5617bd8c354f",
+					"jsonFile" : "target-Section14_009STLproject-Debug-02ffdc526d42ebaba718.json",
+					"name" : "Section14_009STLproject",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Section14_std_list::@ad67b3a3133a1ce63c6b",
+					"jsonFile" : "target-Section14_std_list-Debug-3b42413fccd1d2f9f3ad.json",
+					"name" : "Section14_std_list",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "Section15_001Threads::@c36e9249191220f5c01d",
+					"jsonFile" : "target-Section15_001Threads-Debug-f7da096689c3c576971c.json",
+					"name" : "Section15_001Threads",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "Section15_002Mutex::@afc7404a7940a545aa56",
+					"jsonFile" : "target-Section15_002Mutex-Debug-ecc8becbfb44be188ec4.json",
+					"name" : "Section15_002Mutex",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Section15_003this_thread::@c68f3d8c1216520864cc",
+					"jsonFile" : "target-Section15_003this_thread-Debug-98fe1720aebc4c3af5be.json",
+					"name" : "Section15_003this_thread",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "Section15_004TaskBasedConcurrency::@357789f897eb69af838a",
+					"jsonFile" : "target-Section15_004TaskBasedConcurrency-Debug-2cef9efaa8393b55faf0.json",
+					"name" : "Section15_004TaskBasedConcurrency",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "Section15_005Future::@2dcb1abeab7e08ac277f",
+					"jsonFile" : "target-Section15_005Future-Debug-ca2f334ef3588efc4ec9.json",
+					"name" : "Section15_005Future",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "Section15_006Promise::@a3aa6a2069881ff171cb",
+					"jsonFile" : "target-Section15_006Promise-Debug-fe7dc5b3ae421489e910.json",
+					"name" : "Section15_006Promise",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "Section15_007Exceptions::@7ba09b3a35e36389e7ff",
+					"jsonFile" : "target-Section15_007Exceptions-Debug-495e72d994b9d4c8b11c.json",
+					"name" : "Section15_007Exceptions",
+					"projectIndex" : 16
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "Section16_001Attributes::@a6bc193fa5b108b91d98",
+					"jsonFile" : "target-Section16_001Attributes-Debug-fdc72ab026b40fb6c5f5.json",
+					"name" : "Section16_001Attributes",
+					"projectIndex" : 17
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "Section16_002FeatureTestMacros::@f4f71adeb1c3d76a8ada",
+					"jsonFile" : "target-Section16_002FeatureTestMacros-Debug-92f0c3e3fdf8feb73386.json",
+					"name" : "Section16_002FeatureTestMacros",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 22,
+					"id" : "Section16_003IfSwitchWithInit::@5833780a5a79978b7fca",
+					"jsonFile" : "target-Section16_003IfSwitchWithInit-Debug-9bc3704e0d64e3c78c7e.json",
+					"name" : "Section16_003IfSwitchWithInit",
+					"projectIndex" : 19
+				},
+				{
+					"directoryIndex" : 23,
+					"id" : "Section16_004InlineVariables::@348028c3caefe5398f39",
+					"jsonFile" : "target-Section16_004InlineVariables-Debug-b9e00240102594297eb8.json",
+					"name" : "Section16_004InlineVariables",
+					"projectIndex" : 20
+				},
+				{
+					"directoryIndex" : 24,
+					"id" : "Section16_005NestedNamespaces::@1721e7e041ca3d6067bd",
+					"jsonFile" : "target-Section16_005NestedNamespaces-Debug-97e56dedff39756b5034.json",
+					"name" : "Section16_005NestedNamespaces",
+					"projectIndex" : 21
+				},
+				{
+					"directoryIndex" : 25,
+					"id" : "Section16_006noexcept::@94c334d7cb4e4910d9d2",
+					"jsonFile" : "target-Section16_006noexcept-Debug-3119a6cb6b5b73607da6.json",
+					"name" : "Section16_006noexcept",
+					"projectIndex" : 22
+				},
+				{
+					"directoryIndex" : 26,
+					"id" : "Section16_007constexprLambda::@53b788660fa042976c3f",
+					"jsonFile" : "target-Section16_007constexprLambda-Debug-5c2c00a34f9600ff0ba7.json",
+					"name" : "Section16_007constexprLambda",
+					"projectIndex" : 23
+				},
+				{
+					"directoryIndex" : 27,
+					"id" : "Section16_008StructuredBindings::@51aefd4995b96d68657a",
+					"jsonFile" : "target-Section16_008StructuredBindings-Debug-98cd66b8136d0f88c202.json",
+					"name" : "Section16_008StructuredBindings",
+					"projectIndex" : 24
+				},
+				{
+					"directoryIndex" : 28,
+					"id" : "Section16_009ExpressionEvaluationOrder::@aec99f9085fc4f24ea22",
+					"jsonFile" : "target-Section16_009ExpressionEvaluationOrder-Debug-af8ba5c05df2fca60646.json",
+					"name" : "Section16_009ExpressionEvaluationOrder",
+					"projectIndex" : 25
+				},
+				{
+					"directoryIndex" : 29,
+					"id" : "Section16_010MandatoryCopyElisionb::@b96a911e7386c58dee05",
+					"jsonFile" : "target-Section16_010MandatoryCopyElisionb-Debug-7b86def22c063d06d907.json",
+					"name" : "Section16_010MandatoryCopyElisionb",
+					"projectIndex" : 26
+				},
+				{
+					"directoryIndex" : 31,
+					"id" : "Section17_001CTAD::@070dbaec4c4e4d2d5a8d",
+					"jsonFile" : "target-Section17_001CTAD-Debug-fc0af4ee94692206fe7d.json",
+					"name" : "Section17_001CTAD",
+					"projectIndex" : 27
+				},
+				{
+					"directoryIndex" : 32,
+					"id" : "Section17_002FoldingBasics::@0d38d5d5a4c1df64a483",
+					"jsonFile" : "target-Section17_002FoldingBasics-Debug-5e58ebb879b94c0f57e4.json",
+					"name" : "Section17_002FoldingBasics",
+					"projectIndex" : 28
+				},
+				{
+					"directoryIndex" : 33,
+					"id" : "Section17_003ifconstexpr::@d899ea170f020daf5e91",
+					"jsonFile" : "target-Section17_003ifconstexpr-Debug-3032491a9eaf4c8c1a65.json",
+					"name" : "Section17_003ifconstexpr",
+					"projectIndex" : 29
+				},
+				{
+					"directoryIndex" : 35,
+					"id" : "Section18_001std_optional::@9a7865c863568438bf38",
+					"jsonFile" : "target-Section18_001std_optional-Debug-218a7d4ce9edf532d02f.json",
+					"name" : "Section18_001std_optional",
+					"projectIndex" : 30
+				},
+				{
+					"directoryIndex" : 36,
+					"id" : "Section18_002std_variant::@b520258d7b3c71f9ccca",
+					"jsonFile" : "target-Section18_002std_variant-Debug-85781928037664885f48.json",
+					"name" : "Section18_002std_variant",
+					"projectIndex" : 31
+				},
+				{
+					"directoryIndex" : 37,
+					"id" : "Section18_003std_any::@67d4e8d01a85602234af",
+					"jsonFile" : "target-Section18_003std_any-Debug-f3b520ab8dc1580f7d93.json",
+					"name" : "Section18_003std_any",
+					"projectIndex" : 32
+				},
+				{
+					"directoryIndex" : 38,
+					"id" : "Section18_004parallel::@f4ec5de4bbc8fbee302c",
+					"jsonFile" : "target-Section18_004parallel-Debug-be97207a8ffc9a0decaa.json",
+					"name" : "Section18_004parallel",
+					"projectIndex" : 33
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "mainApp::@5e84c6b9eb622473d7ff",
+					"jsonFile" : "target-mainApp-Debug-b4f4175ba486f3d0826c.json",
+					"name" : "mainApp",
+					"projectIndex" : 7
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build",
+		"source" : "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

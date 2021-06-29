@@ -427,6 +427,136 @@ Section16_007constexprLambda/fast:
 	$(MAKE) $(MAKESILENT) -f Section16\007constexprLambda\CMakeFiles\Section16_007constexprLambda.dir\build.make Section16/007constexprLambda/CMakeFiles/Section16_007constexprLambda.dir/build
 .PHONY : Section16_007constexprLambda/fast
 
+#=============================================================================
+# Target rules for targets named Section16_008StructuredBindings
+
+# Build rule for target.
+Section16_008StructuredBindings: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section16_008StructuredBindings
+.PHONY : Section16_008StructuredBindings
+
+# fast build rule for target.
+Section16_008StructuredBindings/fast:
+	$(MAKE) $(MAKESILENT) -f Section16\008StructuredBindings\CMakeFiles\Section16_008StructuredBindings.dir\build.make Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/build
+.PHONY : Section16_008StructuredBindings/fast
+
+#=============================================================================
+# Target rules for targets named Section16_009ExpressionEvaluationOrder
+
+# Build rule for target.
+Section16_009ExpressionEvaluationOrder: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section16_009ExpressionEvaluationOrder
+.PHONY : Section16_009ExpressionEvaluationOrder
+
+# fast build rule for target.
+Section16_009ExpressionEvaluationOrder/fast:
+	$(MAKE) $(MAKESILENT) -f Section16\009ExpressionEvaluationOrder\CMakeFiles\Section16_009ExpressionEvaluationOrder.dir\build.make Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/build
+.PHONY : Section16_009ExpressionEvaluationOrder/fast
+
+#=============================================================================
+# Target rules for targets named Section16_010MandatoryCopyElisionb
+
+# Build rule for target.
+Section16_010MandatoryCopyElisionb: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section16_010MandatoryCopyElisionb
+.PHONY : Section16_010MandatoryCopyElisionb
+
+# fast build rule for target.
+Section16_010MandatoryCopyElisionb/fast:
+	$(MAKE) $(MAKESILENT) -f Section16\010MandatoryCopyElision\CMakeFiles\Section16_010MandatoryCopyElisionb.dir\build.make Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/build
+.PHONY : Section16_010MandatoryCopyElisionb/fast
+
+#=============================================================================
+# Target rules for targets named Section17_001CTAD
+
+# Build rule for target.
+Section17_001CTAD: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section17_001CTAD
+.PHONY : Section17_001CTAD
+
+# fast build rule for target.
+Section17_001CTAD/fast:
+	$(MAKE) $(MAKESILENT) -f Section17\001CTAD\CMakeFiles\Section17_001CTAD.dir\build.make Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/build
+.PHONY : Section17_001CTAD/fast
+
+#=============================================================================
+# Target rules for targets named Section17_002FoldingBasics
+
+# Build rule for target.
+Section17_002FoldingBasics: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section17_002FoldingBasics
+.PHONY : Section17_002FoldingBasics
+
+# fast build rule for target.
+Section17_002FoldingBasics/fast:
+	$(MAKE) $(MAKESILENT) -f Section17\002FoldingBasics\CMakeFiles\Section17_002FoldingBasics.dir\build.make Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/build
+.PHONY : Section17_002FoldingBasics/fast
+
+#=============================================================================
+# Target rules for targets named Section17_003ifconstexpr
+
+# Build rule for target.
+Section17_003ifconstexpr: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section17_003ifconstexpr
+.PHONY : Section17_003ifconstexpr
+
+# fast build rule for target.
+Section17_003ifconstexpr/fast:
+	$(MAKE) $(MAKESILENT) -f Section17\003ifconstexpr\CMakeFiles\Section17_003ifconstexpr.dir\build.make Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/build
+.PHONY : Section17_003ifconstexpr/fast
+
+#=============================================================================
+# Target rules for targets named Section18_001std_optional
+
+# Build rule for target.
+Section18_001std_optional: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section18_001std_optional
+.PHONY : Section18_001std_optional
+
+# fast build rule for target.
+Section18_001std_optional/fast:
+	$(MAKE) $(MAKESILENT) -f Section18\001std_optional\CMakeFiles\Section18_001std_optional.dir\build.make Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/build
+.PHONY : Section18_001std_optional/fast
+
+#=============================================================================
+# Target rules for targets named Section18_002std_variant
+
+# Build rule for target.
+Section18_002std_variant: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section18_002std_variant
+.PHONY : Section18_002std_variant
+
+# fast build rule for target.
+Section18_002std_variant/fast:
+	$(MAKE) $(MAKESILENT) -f Section18\002std_variant\CMakeFiles\Section18_002std_variant.dir\build.make Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/build
+.PHONY : Section18_002std_variant/fast
+
+#=============================================================================
+# Target rules for targets named Section18_003std_any
+
+# Build rule for target.
+Section18_003std_any: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section18_003std_any
+.PHONY : Section18_003std_any
+
+# fast build rule for target.
+Section18_003std_any/fast:
+	$(MAKE) $(MAKESILENT) -f Section18\003std_any\CMakeFiles\Section18_003std_any.dir\build.make Section18/003std_any/CMakeFiles/Section18_003std_any.dir/build
+.PHONY : Section18_003std_any/fast
+
+#=============================================================================
+# Target rules for targets named Section18_004parallel
+
+# Build rule for target.
+Section18_004parallel: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section18_004parallel
+.PHONY : Section18_004parallel
+
+# fast build rule for target.
+Section18_004parallel/fast:
+	$(MAKE) $(MAKESILENT) -f Section18\004parallel\CMakeFiles\Section18_004parallel.dir\build.make Section18/004parallel/CMakeFiles/Section18_004parallel.dir/build
+.PHONY : Section18_004parallel/fast
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -457,6 +587,16 @@ help:
 	@echo ... Section16_005NestedNamespaces
 	@echo ... Section16_006noexcept
 	@echo ... Section16_007constexprLambda
+	@echo ... Section16_008StructuredBindings
+	@echo ... Section16_009ExpressionEvaluationOrder
+	@echo ... Section16_010MandatoryCopyElisionb
+	@echo ... Section17_001CTAD
+	@echo ... Section17_002FoldingBasics
+	@echo ... Section17_003ifconstexpr
+	@echo ... Section18_001std_optional
+	@echo ... Section18_002std_variant
+	@echo ... Section18_003std_any
+	@echo ... Section18_004parallel
 	@echo ... mainApp
 .PHONY : help
 

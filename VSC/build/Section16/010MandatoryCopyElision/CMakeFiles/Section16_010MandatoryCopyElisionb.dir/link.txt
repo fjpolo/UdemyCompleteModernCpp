@@ -1,0 +1,3 @@
+C:\CMake\bin\cmake.exe -E rm -f CMakeFiles\Section16_010MandatoryCopyElisionb.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Section16_010MandatoryCopyElisionb.dir/objects.a @CMakeFiles\Section16_010MandatoryCopyElisionb.dir\objects1.rsp
+C:\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\Section16_010MandatoryCopyElisionb.dir/objects.a -Wl,--no-whole-archive -o Section16_010MandatoryCopyElisionb.exe -Wl,--out-implib,libSection16_010MandatoryCopyElisionb.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Section16_010MandatoryCopyElisionb.dir\linklibs.rsp

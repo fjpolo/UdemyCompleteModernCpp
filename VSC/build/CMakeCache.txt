@@ -435,6 +435,66 @@ Section16_007constexprLambda_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/C
 Section16_007constexprLambda_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/007constexprLambda
 
 //Value Computed by CMake
+Section16_008StructuredBindings_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/008StructuredBindings
+
+//Value Computed by CMake
+Section16_008StructuredBindings_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/008StructuredBindings
+
+//Value Computed by CMake
+Section16_009ExpressionEvaluationOrder_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/009ExpressionEvaluationOrder
+
+//Value Computed by CMake
+Section16_009ExpressionEvaluationOrder_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/009ExpressionEvaluationOrder
+
+//Value Computed by CMake
+Section16_010MandatoryCopyElisionb_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/010MandatoryCopyElision
+
+//Value Computed by CMake
+Section16_010MandatoryCopyElisionb_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/010MandatoryCopyElision
+
+//Value Computed by CMake
+Section17_001CTAD_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section17/001CTAD
+
+//Value Computed by CMake
+Section17_001CTAD_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section17/001CTAD
+
+//Value Computed by CMake
+Section17_002FoldingBasics_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section17/002FoldingBasics
+
+//Value Computed by CMake
+Section17_002FoldingBasics_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section17/002FoldingBasics
+
+//Value Computed by CMake
+Section17_003ifconstexpr_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section17/003ifconstexpr
+
+//Value Computed by CMake
+Section17_003ifconstexpr_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section17/003ifconstexpr
+
+//Value Computed by CMake
+Section18_001std_optional_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section18/001std_optional
+
+//Value Computed by CMake
+Section18_001std_optional_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section18/001std_optional
+
+//Value Computed by CMake
+Section18_002std_variant_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section18/002std_variant
+
+//Value Computed by CMake
+Section18_002std_variant_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section18/002std_variant
+
+//Value Computed by CMake
+Section18_003std_any_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section18/003std_any
+
+//Value Computed by CMake
+Section18_003std_any_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section18/003std_any
+
+//Value Computed by CMake
+Section18_004parallel_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section18/004parallel
+
+//Value Computed by CMake
+Section18_004parallel_SOURCE_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section18/004parallel
+
+//Value Computed by CMake
 UdemyCourse_BINARY_DIR:STATIC=C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section14/007unorderedcontainers
 
 //Value Computed by CMake
@@ -553,7 +613,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=27
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=39
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

@@ -74,6 +74,8 @@ CMAKE_BINARY_DIR = C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteMo
 all: Section14/all
 all: Section15/all
 all: Section16/all
+all: Section17/all
+all: Section18/all
 
 .PHONY : all
 
@@ -81,6 +83,8 @@ all: Section16/all
 preinstall: Section14/preinstall
 preinstall: Section15/preinstall
 preinstall: Section16/preinstall
+preinstall: Section17/preinstall
+preinstall: Section18/preinstall
 
 .PHONY : preinstall
 
@@ -88,6 +92,8 @@ preinstall: Section16/preinstall
 clean: Section14/clean
 clean: Section15/clean
 clean: Section16/clean
+clean: Section17/clean
+clean: Section18/clean
 
 .PHONY : clean
 
@@ -468,6 +474,9 @@ Section16/all: Section16/004InlineVariables/all
 Section16/all: Section16/005NestedNamespaces/all
 Section16/all: Section16/006noexcept/all
 Section16/all: Section16/007constexprLambda/all
+Section16/all: Section16/008StructuredBindings/all
+Section16/all: Section16/009ExpressionEvaluationOrder/all
+Section16/all: Section16/010MandatoryCopyElision/all
 
 .PHONY : Section16/all
 
@@ -479,6 +488,9 @@ Section16/preinstall: Section16/004InlineVariables/preinstall
 Section16/preinstall: Section16/005NestedNamespaces/preinstall
 Section16/preinstall: Section16/006noexcept/preinstall
 Section16/preinstall: Section16/007constexprLambda/preinstall
+Section16/preinstall: Section16/008StructuredBindings/preinstall
+Section16/preinstall: Section16/009ExpressionEvaluationOrder/preinstall
+Section16/preinstall: Section16/010MandatoryCopyElision/preinstall
 
 .PHONY : Section16/preinstall
 
@@ -490,6 +502,9 @@ Section16/clean: Section16/004InlineVariables/clean
 Section16/clean: Section16/005NestedNamespaces/clean
 Section16/clean: Section16/006noexcept/clean
 Section16/clean: Section16/007constexprLambda/clean
+Section16/clean: Section16/008StructuredBindings/clean
+Section16/clean: Section16/009ExpressionEvaluationOrder/clean
+Section16/clean: Section16/010MandatoryCopyElision/clean
 
 .PHONY : Section16/clean
 
@@ -618,6 +633,237 @@ Section16/007constexprLambda/preinstall:
 Section16/007constexprLambda/clean: Section16/007constexprLambda/CMakeFiles/Section16_007constexprLambda.dir/clean
 
 .PHONY : Section16/007constexprLambda/clean
+
+#=============================================================================
+# Directory level rules for directory Section16/008StructuredBindings
+
+# Recursive "all" directory target.
+Section16/008StructuredBindings/all: Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/all
+
+.PHONY : Section16/008StructuredBindings/all
+
+# Recursive "preinstall" directory target.
+Section16/008StructuredBindings/preinstall:
+
+.PHONY : Section16/008StructuredBindings/preinstall
+
+# Recursive "clean" directory target.
+Section16/008StructuredBindings/clean: Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/clean
+
+.PHONY : Section16/008StructuredBindings/clean
+
+#=============================================================================
+# Directory level rules for directory Section16/009ExpressionEvaluationOrder
+
+# Recursive "all" directory target.
+Section16/009ExpressionEvaluationOrder/all: Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/all
+
+.PHONY : Section16/009ExpressionEvaluationOrder/all
+
+# Recursive "preinstall" directory target.
+Section16/009ExpressionEvaluationOrder/preinstall:
+
+.PHONY : Section16/009ExpressionEvaluationOrder/preinstall
+
+# Recursive "clean" directory target.
+Section16/009ExpressionEvaluationOrder/clean: Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/clean
+
+.PHONY : Section16/009ExpressionEvaluationOrder/clean
+
+#=============================================================================
+# Directory level rules for directory Section16/010MandatoryCopyElision
+
+# Recursive "all" directory target.
+Section16/010MandatoryCopyElision/all: Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/all
+
+.PHONY : Section16/010MandatoryCopyElision/all
+
+# Recursive "preinstall" directory target.
+Section16/010MandatoryCopyElision/preinstall:
+
+.PHONY : Section16/010MandatoryCopyElision/preinstall
+
+# Recursive "clean" directory target.
+Section16/010MandatoryCopyElision/clean: Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/clean
+
+.PHONY : Section16/010MandatoryCopyElision/clean
+
+#=============================================================================
+# Directory level rules for directory Section17
+
+# Recursive "all" directory target.
+Section17/all: Section17/001CTAD/all
+Section17/all: Section17/002FoldingBasics/all
+Section17/all: Section17/003ifconstexpr/all
+
+.PHONY : Section17/all
+
+# Recursive "preinstall" directory target.
+Section17/preinstall: Section17/001CTAD/preinstall
+Section17/preinstall: Section17/002FoldingBasics/preinstall
+Section17/preinstall: Section17/003ifconstexpr/preinstall
+
+.PHONY : Section17/preinstall
+
+# Recursive "clean" directory target.
+Section17/clean: Section17/001CTAD/clean
+Section17/clean: Section17/002FoldingBasics/clean
+Section17/clean: Section17/003ifconstexpr/clean
+
+.PHONY : Section17/clean
+
+#=============================================================================
+# Directory level rules for directory Section17/001CTAD
+
+# Recursive "all" directory target.
+Section17/001CTAD/all: Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/all
+
+.PHONY : Section17/001CTAD/all
+
+# Recursive "preinstall" directory target.
+Section17/001CTAD/preinstall:
+
+.PHONY : Section17/001CTAD/preinstall
+
+# Recursive "clean" directory target.
+Section17/001CTAD/clean: Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/clean
+
+.PHONY : Section17/001CTAD/clean
+
+#=============================================================================
+# Directory level rules for directory Section17/002FoldingBasics
+
+# Recursive "all" directory target.
+Section17/002FoldingBasics/all: Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/all
+
+.PHONY : Section17/002FoldingBasics/all
+
+# Recursive "preinstall" directory target.
+Section17/002FoldingBasics/preinstall:
+
+.PHONY : Section17/002FoldingBasics/preinstall
+
+# Recursive "clean" directory target.
+Section17/002FoldingBasics/clean: Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/clean
+
+.PHONY : Section17/002FoldingBasics/clean
+
+#=============================================================================
+# Directory level rules for directory Section17/003ifconstexpr
+
+# Recursive "all" directory target.
+Section17/003ifconstexpr/all: Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/all
+
+.PHONY : Section17/003ifconstexpr/all
+
+# Recursive "preinstall" directory target.
+Section17/003ifconstexpr/preinstall:
+
+.PHONY : Section17/003ifconstexpr/preinstall
+
+# Recursive "clean" directory target.
+Section17/003ifconstexpr/clean: Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/clean
+
+.PHONY : Section17/003ifconstexpr/clean
+
+#=============================================================================
+# Directory level rules for directory Section18
+
+# Recursive "all" directory target.
+Section18/all: Section18/001std_optional/all
+Section18/all: Section18/002std_variant/all
+Section18/all: Section18/003std_any/all
+Section18/all: Section18/004parallel/all
+
+.PHONY : Section18/all
+
+# Recursive "preinstall" directory target.
+Section18/preinstall: Section18/001std_optional/preinstall
+Section18/preinstall: Section18/002std_variant/preinstall
+Section18/preinstall: Section18/003std_any/preinstall
+Section18/preinstall: Section18/004parallel/preinstall
+
+.PHONY : Section18/preinstall
+
+# Recursive "clean" directory target.
+Section18/clean: Section18/001std_optional/clean
+Section18/clean: Section18/002std_variant/clean
+Section18/clean: Section18/003std_any/clean
+Section18/clean: Section18/004parallel/clean
+
+.PHONY : Section18/clean
+
+#=============================================================================
+# Directory level rules for directory Section18/001std_optional
+
+# Recursive "all" directory target.
+Section18/001std_optional/all: Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/all
+
+.PHONY : Section18/001std_optional/all
+
+# Recursive "preinstall" directory target.
+Section18/001std_optional/preinstall:
+
+.PHONY : Section18/001std_optional/preinstall
+
+# Recursive "clean" directory target.
+Section18/001std_optional/clean: Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/clean
+
+.PHONY : Section18/001std_optional/clean
+
+#=============================================================================
+# Directory level rules for directory Section18/002std_variant
+
+# Recursive "all" directory target.
+Section18/002std_variant/all: Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/all
+
+.PHONY : Section18/002std_variant/all
+
+# Recursive "preinstall" directory target.
+Section18/002std_variant/preinstall:
+
+.PHONY : Section18/002std_variant/preinstall
+
+# Recursive "clean" directory target.
+Section18/002std_variant/clean: Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/clean
+
+.PHONY : Section18/002std_variant/clean
+
+#=============================================================================
+# Directory level rules for directory Section18/003std_any
+
+# Recursive "all" directory target.
+Section18/003std_any/all: Section18/003std_any/CMakeFiles/Section18_003std_any.dir/all
+
+.PHONY : Section18/003std_any/all
+
+# Recursive "preinstall" directory target.
+Section18/003std_any/preinstall:
+
+.PHONY : Section18/003std_any/preinstall
+
+# Recursive "clean" directory target.
+Section18/003std_any/clean: Section18/003std_any/CMakeFiles/Section18_003std_any.dir/clean
+
+.PHONY : Section18/003std_any/clean
+
+#=============================================================================
+# Directory level rules for directory Section18/004parallel
+
+# Recursive "all" directory target.
+Section18/004parallel/all: Section18/004parallel/CMakeFiles/Section18_004parallel.dir/all
+
+.PHONY : Section18/004parallel/all
+
+# Recursive "preinstall" directory target.
+Section18/004parallel/preinstall:
+
+.PHONY : Section18/004parallel/preinstall
+
+# Recursive "clean" directory target.
+Section18/004parallel/clean: Section18/004parallel/CMakeFiles/Section18_004parallel.dir/clean
+
+.PHONY : Section18/004parallel/clean
 
 #=============================================================================
 # Target rules for target Section14/001std_array/CMakeFiles/Section14_001std_array.dir
@@ -788,7 +1034,7 @@ Section14/006std_map__std_multimap/CMakeFiles/Section14_006std_map__std_multimap
 Section14/007unorderedcontainers/CMakeFiles/mainApp.dir/all:
 	$(MAKE) $(MAKESILENT) -f Section14\007unorderedcontainers\CMakeFiles\mainApp.dir\build.make Section14/007unorderedcontainers/CMakeFiles/mainApp.dir/depend
 	$(MAKE) $(MAKESILENT) -f Section14\007unorderedcontainers\CMakeFiles\mainApp.dir\build.make Section14/007unorderedcontainers/CMakeFiles/mainApp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=47,48 "Built target mainApp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=67,68 "Built target mainApp"
 .PHONY : Section14/007unorderedcontainers/CMakeFiles/mainApp.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1239,6 +1485,276 @@ Section16_007constexprLambda: Section16/007constexprLambda/CMakeFiles/Section16_
 Section16/007constexprLambda/CMakeFiles/Section16_007constexprLambda.dir/clean:
 	$(MAKE) $(MAKESILENT) -f Section16\007constexprLambda\CMakeFiles\Section16_007constexprLambda.dir\build.make Section16/007constexprLambda/CMakeFiles/Section16_007constexprLambda.dir/clean
 .PHONY : Section16/007constexprLambda/CMakeFiles/Section16_007constexprLambda.dir/clean
+
+#=============================================================================
+# Target rules for target Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir
+
+# All Build rule for target.
+Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section16\008StructuredBindings\CMakeFiles\Section16_008StructuredBindings.dir\build.make Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section16\008StructuredBindings\CMakeFiles\Section16_008StructuredBindings.dir\build.make Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=47,48 "Built target Section16_008StructuredBindings"
+.PHONY : Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/all
+
+# Build rule for subdir invocation for target.
+Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/rule
+
+# Convenience name for target.
+Section16_008StructuredBindings: Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/rule
+
+.PHONY : Section16_008StructuredBindings
+
+# clean rule for target.
+Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section16\008StructuredBindings\CMakeFiles\Section16_008StructuredBindings.dir\build.make Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/clean
+.PHONY : Section16/008StructuredBindings/CMakeFiles/Section16_008StructuredBindings.dir/clean
+
+#=============================================================================
+# Target rules for target Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir
+
+# All Build rule for target.
+Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section16\009ExpressionEvaluationOrder\CMakeFiles\Section16_009ExpressionEvaluationOrder.dir\build.make Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section16\009ExpressionEvaluationOrder\CMakeFiles\Section16_009ExpressionEvaluationOrder.dir\build.make Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=49,50 "Built target Section16_009ExpressionEvaluationOrder"
+.PHONY : Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/all
+
+# Build rule for subdir invocation for target.
+Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/rule
+
+# Convenience name for target.
+Section16_009ExpressionEvaluationOrder: Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/rule
+
+.PHONY : Section16_009ExpressionEvaluationOrder
+
+# clean rule for target.
+Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section16\009ExpressionEvaluationOrder\CMakeFiles\Section16_009ExpressionEvaluationOrder.dir\build.make Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/clean
+.PHONY : Section16/009ExpressionEvaluationOrder/CMakeFiles/Section16_009ExpressionEvaluationOrder.dir/clean
+
+#=============================================================================
+# Target rules for target Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir
+
+# All Build rule for target.
+Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section16\010MandatoryCopyElision\CMakeFiles\Section16_010MandatoryCopyElisionb.dir\build.make Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section16\010MandatoryCopyElision\CMakeFiles\Section16_010MandatoryCopyElisionb.dir\build.make Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=51,52 "Built target Section16_010MandatoryCopyElisionb"
+.PHONY : Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/all
+
+# Build rule for subdir invocation for target.
+Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/rule
+
+# Convenience name for target.
+Section16_010MandatoryCopyElisionb: Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/rule
+
+.PHONY : Section16_010MandatoryCopyElisionb
+
+# clean rule for target.
+Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section16\010MandatoryCopyElision\CMakeFiles\Section16_010MandatoryCopyElisionb.dir\build.make Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/clean
+.PHONY : Section16/010MandatoryCopyElision/CMakeFiles/Section16_010MandatoryCopyElisionb.dir/clean
+
+#=============================================================================
+# Target rules for target Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir
+
+# All Build rule for target.
+Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section17\001CTAD\CMakeFiles\Section17_001CTAD.dir\build.make Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section17\001CTAD\CMakeFiles\Section17_001CTAD.dir\build.make Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=53,54 "Built target Section17_001CTAD"
+.PHONY : Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/all
+
+# Build rule for subdir invocation for target.
+Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/rule
+
+# Convenience name for target.
+Section17_001CTAD: Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/rule
+
+.PHONY : Section17_001CTAD
+
+# clean rule for target.
+Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section17\001CTAD\CMakeFiles\Section17_001CTAD.dir\build.make Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/clean
+.PHONY : Section17/001CTAD/CMakeFiles/Section17_001CTAD.dir/clean
+
+#=============================================================================
+# Target rules for target Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir
+
+# All Build rule for target.
+Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section17\002FoldingBasics\CMakeFiles\Section17_002FoldingBasics.dir\build.make Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section17\002FoldingBasics\CMakeFiles\Section17_002FoldingBasics.dir\build.make Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=55,56 "Built target Section17_002FoldingBasics"
+.PHONY : Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/all
+
+# Build rule for subdir invocation for target.
+Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/rule
+
+# Convenience name for target.
+Section17_002FoldingBasics: Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/rule
+
+.PHONY : Section17_002FoldingBasics
+
+# clean rule for target.
+Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section17\002FoldingBasics\CMakeFiles\Section17_002FoldingBasics.dir\build.make Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/clean
+.PHONY : Section17/002FoldingBasics/CMakeFiles/Section17_002FoldingBasics.dir/clean
+
+#=============================================================================
+# Target rules for target Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir
+
+# All Build rule for target.
+Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section17\003ifconstexpr\CMakeFiles\Section17_003ifconstexpr.dir\build.make Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section17\003ifconstexpr\CMakeFiles\Section17_003ifconstexpr.dir\build.make Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=57,58 "Built target Section17_003ifconstexpr"
+.PHONY : Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/all
+
+# Build rule for subdir invocation for target.
+Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/rule
+
+# Convenience name for target.
+Section17_003ifconstexpr: Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/rule
+
+.PHONY : Section17_003ifconstexpr
+
+# clean rule for target.
+Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section17\003ifconstexpr\CMakeFiles\Section17_003ifconstexpr.dir\build.make Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/clean
+.PHONY : Section17/003ifconstexpr/CMakeFiles/Section17_003ifconstexpr.dir/clean
+
+#=============================================================================
+# Target rules for target Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir
+
+# All Build rule for target.
+Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section18\001std_optional\CMakeFiles\Section18_001std_optional.dir\build.make Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section18\001std_optional\CMakeFiles\Section18_001std_optional.dir\build.make Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=59,60 "Built target Section18_001std_optional"
+.PHONY : Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/all
+
+# Build rule for subdir invocation for target.
+Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/rule
+
+# Convenience name for target.
+Section18_001std_optional: Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/rule
+
+.PHONY : Section18_001std_optional
+
+# clean rule for target.
+Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section18\001std_optional\CMakeFiles\Section18_001std_optional.dir\build.make Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/clean
+.PHONY : Section18/001std_optional/CMakeFiles/Section18_001std_optional.dir/clean
+
+#=============================================================================
+# Target rules for target Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir
+
+# All Build rule for target.
+Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section18\002std_variant\CMakeFiles\Section18_002std_variant.dir\build.make Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section18\002std_variant\CMakeFiles\Section18_002std_variant.dir\build.make Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=61,62 "Built target Section18_002std_variant"
+.PHONY : Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/all
+
+# Build rule for subdir invocation for target.
+Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/rule
+
+# Convenience name for target.
+Section18_002std_variant: Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/rule
+
+.PHONY : Section18_002std_variant
+
+# clean rule for target.
+Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section18\002std_variant\CMakeFiles\Section18_002std_variant.dir\build.make Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/clean
+.PHONY : Section18/002std_variant/CMakeFiles/Section18_002std_variant.dir/clean
+
+#=============================================================================
+# Target rules for target Section18/003std_any/CMakeFiles/Section18_003std_any.dir
+
+# All Build rule for target.
+Section18/003std_any/CMakeFiles/Section18_003std_any.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section18\003std_any\CMakeFiles\Section18_003std_any.dir\build.make Section18/003std_any/CMakeFiles/Section18_003std_any.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section18\003std_any\CMakeFiles\Section18_003std_any.dir\build.make Section18/003std_any/CMakeFiles/Section18_003std_any.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=63,64 "Built target Section18_003std_any"
+.PHONY : Section18/003std_any/CMakeFiles/Section18_003std_any.dir/all
+
+# Build rule for subdir invocation for target.
+Section18/003std_any/CMakeFiles/Section18_003std_any.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section18/003std_any/CMakeFiles/Section18_003std_any.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section18/003std_any/CMakeFiles/Section18_003std_any.dir/rule
+
+# Convenience name for target.
+Section18_003std_any: Section18/003std_any/CMakeFiles/Section18_003std_any.dir/rule
+
+.PHONY : Section18_003std_any
+
+# clean rule for target.
+Section18/003std_any/CMakeFiles/Section18_003std_any.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section18\003std_any\CMakeFiles\Section18_003std_any.dir\build.make Section18/003std_any/CMakeFiles/Section18_003std_any.dir/clean
+.PHONY : Section18/003std_any/CMakeFiles/Section18_003std_any.dir/clean
+
+#=============================================================================
+# Target rules for target Section18/004parallel/CMakeFiles/Section18_004parallel.dir
+
+# All Build rule for target.
+Section18/004parallel/CMakeFiles/Section18_004parallel.dir/all:
+	$(MAKE) $(MAKESILENT) -f Section18\004parallel\CMakeFiles\Section18_004parallel.dir\build.make Section18/004parallel/CMakeFiles/Section18_004parallel.dir/depend
+	$(MAKE) $(MAKESILENT) -f Section18\004parallel\CMakeFiles\Section18_004parallel.dir\build.make Section18/004parallel/CMakeFiles/Section18_004parallel.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles --progress-num=65,66 "Built target Section18_004parallel"
+.PHONY : Section18/004parallel/CMakeFiles/Section18_004parallel.dir/all
+
+# Build rule for subdir invocation for target.
+Section18/004parallel/CMakeFiles/Section18_004parallel.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Section18/004parallel/CMakeFiles/Section18_004parallel.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\fpolo\Downloads\Franco\Courses\Udemy\UdemyCompleteModernCpp\VSC\build\CMakeFiles 0
+.PHONY : Section18/004parallel/CMakeFiles/Section18_004parallel.dir/rule
+
+# Convenience name for target.
+Section18_004parallel: Section18/004parallel/CMakeFiles/Section18_004parallel.dir/rule
+
+.PHONY : Section18_004parallel
+
+# clean rule for target.
+Section18/004parallel/CMakeFiles/Section18_004parallel.dir/clean:
+	$(MAKE) $(MAKESILENT) -f Section18\004parallel\CMakeFiles\Section18_004parallel.dir\build.make Section18/004parallel/CMakeFiles/Section18_004parallel.dir/clean
+.PHONY : Section18/004parallel/CMakeFiles/Section18_004parallel.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

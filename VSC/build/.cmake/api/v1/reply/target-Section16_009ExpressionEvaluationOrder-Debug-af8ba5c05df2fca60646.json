@@ -1,0 +1,123 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Section16/009ExpressionEvaluationOrder/Section16_009ExpressionEvaluationOrder.exe"
+		},
+		{
+			"path" : "Section16/009ExpressionEvaluationOrder/Section16_009ExpressionEvaluationOrder.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"ADD_DEFINITIONS"
+		],
+		"files" : 
+		[
+			"Section16/009ExpressionEvaluationOrder/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g   -Wall -std=c++11 -pthread -g"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "_WIN32_WINNT=0x0501"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "Section16_009ExpressionEvaluationOrder::@aec99f9085fc4f24ea22",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Section16_009ExpressionEvaluationOrder",
+	"nameOnDisk" : "Section16_009ExpressionEvaluationOrder.exe",
+	"paths" : 
+	{
+		"build" : "Section16/009ExpressionEvaluationOrder",
+		"source" : "Section16/009ExpressionEvaluationOrder"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Section16/009ExpressionEvaluationOrder/src/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

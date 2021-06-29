@@ -123,5 +123,55 @@
   "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/007constexprLambda",
   "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_007constexprLambda.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\007constexprLambda\\src\\main.cpp",
   "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/007constexprLambda/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/008StructuredBindings",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_008StructuredBindings.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\008StructuredBindings\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/008StructuredBindings/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/009ExpressionEvaluationOrder",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_009ExpressionEvaluationOrder.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\009ExpressionEvaluationOrder\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/009ExpressionEvaluationOrder/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section16/010MandatoryCopyElision",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section16_010MandatoryCopyElisionb.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section16\\010MandatoryCopyElision\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section16/010MandatoryCopyElision/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section17/001CTAD",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section17_001CTAD.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section17\\001CTAD\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section17/001CTAD/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section17/002FoldingBasics",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section17_002FoldingBasics.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section17\\002FoldingBasics\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section17/002FoldingBasics/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section17/003ifconstexpr",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section17_003ifconstexpr.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section17\\003ifconstexpr\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section17/003ifconstexpr/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section18/001std_optional",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section18_001std_optional.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section18\\001std_optional\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section18/001std_optional/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section18/002std_variant",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section18_002std_variant.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section18\\002std_variant\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section18/002std_variant/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section18/003std_any",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section18_003std_any.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section18\\003std_any\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section18/003std_any/src/main.cpp"
+},
+{
+  "directory": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/build/Section18/004parallel",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -D_WIN32_WINNT=0x0501  -g   -Wall -std=c++11 -pthread -g -std=gnu++17 -o CMakeFiles\\Section18_004parallel.dir\\src\\main.cpp.obj -c C:\\Users\\fpolo\\Downloads\\Franco\\Courses\\Udemy\\UdemyCompleteModernCpp\\VSC\\Section18\\004parallel\\src\\main.cpp",
+  "file": "C:/Users/fpolo/Downloads/Franco/Courses/Udemy/UdemyCompleteModernCpp/VSC/Section18/004parallel/src/main.cpp"
 }
 ]
